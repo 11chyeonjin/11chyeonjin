@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=11chyeonjin)](https://solved.ac/11chyeonjin)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=11chyeonjin&theme=warm)
 <!--
 **11chyeonjin/11chyeonjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
